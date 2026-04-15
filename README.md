@@ -1,5 +1,80 @@
 # 💸 App de Organização de Finanças Pessoais com Vibe Coding
 
+````markdown
+
+# Prd - App de organização de finanças com conversa natural:
+
+PRD – Aplicativo de Organização de Finanças Pessoais
+
+1. Contexto
+O aplicativo terá como diferencial a interação em linguagem natural, permitindo que o usuário organize suas finanças por meio de conversas simples, sem depender de formulários ou planilhas complexas.
+Objetivo: tornar o controle financeiro acessível, intuitivo e universalmente utilizável, garantindo boa experiência para o maior número possível de pessoas.
+
+2. Problema
+- Os apps atuais exigem muita entrada manual.
+- Pouca personalização e experiência engessada.
+- Usuários iniciantes acabam desistindo por acharem complicado.
+Solução proposta: criar uma experiência conversacional com recomendações automáticas de economia e relatórios simplificados, baseada em princípios de Design Universal.
+
+3. Público-Alvo
+- Pessoas que desejam começar a organizar suas finanças sem complicação.
+- Usuários iniciantes em controle financeiro.
+- Pessoas que preferem interações naturais em vez de interfaces tradicionais.
+- Usuários diversos, incluindo aqueles com diferentes níveis de letramento digital, necessidades de acessibilidade ou preferências de interação.
+
+4. Funcionalidades-Chave
+1. Registro de gastos via chat em linguagem natural.
+2. Classificação automática das transações (alimentação, transporte, lazer etc.).
+3. Definição e acompanhamento de metas financeiras (ex.: poupar R$200/mês).
+4. Agente Financeiro: dicas de economia personalizadas.
+5. Relatórios simples e visuais (gráficos, resumos semanais/mensais).
+6. Design Universal aplicado:
+   - Interface acessível (suporte a leitores de tela, contraste adequado).
+   - Linguagem clara e inclusiva.
+   - Flexibilidade de interação (voz, texto, toques simples).
+
+5. Entregável da IA (MVP)
+- Principais telas:
+  - Tela de chat (interação principal).
+  - Tela de metas financeiras.
+  - Tela de relatórios.
+- Recursos necessários:
+  - Processamento de linguagem natural (NLP).
+  - Motor de categorização automática.
+  - Sistema de notificações e dicas.
+  - Diretrizes de acessibilidade e usabilidade universal.
+- Validação inicial:
+  - Testes com grupo piloto de usuários diversos (incluindo pessoas com diferentes perfis de uso).
+  - Coleta de feedback sobre clareza da conversa, acessibilidade e utilidade das recomendações.
+  - Ajustes rápidos no fluxo de interação antes de expandir funcionalidades.
+
+
+
+````
+
+Interações com o Lovable
+
+> crie um app de finanças pessoais com base no seguinte prd (Product Requirements Document):{PRD}
+> Tentei emitir o extrato, mas não apareceu. Além disso, tentei fazer a seguinte pergunta: O que é o Buy and Hold? Estou querendo investir pro longo prazo. (não entendeu a pergunta). Contudo, nada foi retornado.
+> adiciona uma tela de loguin para que outros usuários possam ser cadastrados, dando opção para relembrar a senha cadastrada utilizando o email como base.
+
+
+Resultado final no Lovable: https://gentle-talk-wallet.lovable.app/
+
+<img width="1013" height="690" alt="6" src="https://github.com/user-attachments/assets/f841a3fd-28e2-4966-9917-a691cedb6f8c" />
+
+
+📱 Resumo do App de Finanças Pessoais
+O app é um assistente financeiro conversacional com as seguintes funcionalidades:
+
+💬 Chat inteligente — Registra gastos e receitas via linguagem natural (ex: "Gastei R$50 no mercado"), categoriza automaticamente e dá dicas personalizadas.
+🎯 Metas — Permite criar e acompanhar metas de economia com barra de progresso.
+📊 Relatórios — Exibe resumo de receitas, gastos e saldo, com visualização por categoria.
+🔐 Autenticação — Login, cadastro e recuperação de senha via email, integrado ao Lovable Cloud.
+📚 Educação financeira — Responde perguntas sobre investimentos (Buy and Hold, Tesouro Direto, Renda Fixa, etc.).
+
+
+
 Aprenda a **criar soluções com IA** de forma criativa, guiando ferramentas como o **Copilot** e o **Lovable** com uma comunicação simples e natural. O foco é desenvolver o conceito de um **App de Organização de Finanças Pessoais**, mas, acima de tudo, aprender o **jeito Vibe de programar com IA**.
 
 ## ✨ O que é Vibe Coding
